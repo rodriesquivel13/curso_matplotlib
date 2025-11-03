@@ -8,13 +8,6 @@ venv/
 # Editor config
 .vscode/
 
-# pdf's generados
-made_reports/templates
-
-# Debuger
-debug.py
-
 # Jupyter notebook checkpoints
-journal/.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
 
-debug_whatsapp.html
